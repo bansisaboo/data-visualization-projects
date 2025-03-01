@@ -1,1 +1,1 @@
-
+The project focuses on the cutting-edge dashboard designed to revolutionize Amazon's operations showcasing how our comprehensive dashboard enhances decision-making and strategic planning across Amazon's key departments.
